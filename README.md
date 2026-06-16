@@ -1,23 +1,16 @@
 # Liminnality
 
-### Building the bridge between traditional businesses and modern software.
+*An open-source project by Jake Estrada.*
 
-Many small businesses still run on whiteboards, spreadsheets, paper schedules, and phone calls. Those systems work—until they don't.
+Liminnality is an open-source operations platform for small businesses that still run on spreadsheets, whiteboards, and phone calls.
 
-**Liminnality** is an open-source project dedicated to helping businesses move from manual operations to modern digital workflows without losing the processes that made them successful.
+The goal is to give those businesses a real alternative -- something they can run for free, self-host, and modify to fit how they actually work. No SaaS lock-in, no subscription, and no one-size-fits-all workflow they have to bend themselves around.
 
 ---
 
-## The Vision
+## What It Does
 
-The world is in a transitional state.
-
-Old methods still have value.
-New technology offers incredible leverage.
-
-Liminnality exists in that space between them.
-
-The goal is to build practical software that helps real businesses manage:
+A single platform to manage:
 
 * Jobs and projects
 * Customers and CRM
@@ -26,70 +19,58 @@ The goal is to build practical software that helps real businesses manage:
 * Payroll and time tracking
 * Financial operations
 * Documents and file management
-* Automation and AI-assisted workflows
-
-This is not another startup built around growth metrics.
-
-It is software designed to solve real operational problems.
+* AI-assisted workflows
 
 ---
 
-## The Project
+## Stack
 
-The long-term goal is to create an open-source operations platform that anyone can run.
-
-Current areas of development include:
-
-* ASP.NET Core
-* C#
+* ASP.NET Core / C#
 * PostgreSQL
 * Entity Framework Core
 * React
 * REST APIs
-* Authentication & RBAC
-* Local-first architecture
-* Optional cloud synchronization
-* AI-assisted business workflows
+* Authentication and RBAC
+* Local-first architecture with optional cloud synchronization
 
 ---
 
-## Why Open Source?
+## Philosophy
 
-Because small businesses deserve good software too.
+Software should adapt to the business -- not the other way around.
 
-I believe the best operational platforms are built by people who have actually worked in warehouses, construction, manufacturing, logistics, and small offices.
-
-If you have ideas, experience, or code to contribute, you're welcome here.
+Many small businesses have developed workflows over decades of experience. Liminnality is being built to preserve that flexibility while replacing the friction of paper, spreadsheets, and disconnected systems.
 
 ---
 
 ## Current Focus
 
-* Building the core platform architecture
-* Designing the relational database
-* Documenting the engineering process
-* Creating a local-first deployment model
-* Building a community around practical business software
+* Core platform architecture
+* Relational database design
+* Local-first deployment model
+* Engineering documentation
+* Building an open-source community around practical business software
 
 ---
 
 ## Contributing
 
-This project is in active development.
+The project is in active development.
 
-Future contributors will be able to help with:
+If you have worked in construction, logistics, manufacturing, or a small operations environment and you know what these businesses actually need -- that experience is just as valuable as writing code.
+
+Areas where contributions are welcome:
 
 * Backend development
 * Frontend development
 * Database design
-* Documentation
-* Testing
-* UX improvements
+* Documentation and testing
+* UX
 * AI integrations
 * Industry-specific workflows
 
-If this mission interests you, follow the project and help shape it.
+Follow the project if this interests you. More formal contribution guidelines will be added as the architecture stabilizes.
 
 ---
 
-> Building software for the people who still have grease on their hands.
+> Building software for businesses that keep the real world moving.
