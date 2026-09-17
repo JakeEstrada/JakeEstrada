@@ -1,14 +1,13 @@
-# Jake Estrada
+Jake Estrada
 
-Software engineer with a background in logistics and construction operations.
+Software engineer and founder of Liminal Innovations & Technology. I graduated with a B.S. in Computer Science in May 2026 and build backend systems for real business operations.
 
-Creator of **Liminnality** | an open-source ERP platform that gives small businesses a free, self-hostable alternative to spreadsheets and disconnected tools. No SaaS lock-in, no subscription, and no workflow they have to bend themselves around.
+Currently Building
 
-## Currently Building
+Liminnality: Open-source, self-hostable ERP for small businesses
 
-* Liminnality (ASP.NET Core / C# / PostgreSQL / React)
-* Backend architecture and API design
-* Local-first deployment and self-hosting
-* Open-source business software
+Json2Exam: Study and assessment platform
 
-If you work in operations or want to contribute, check out the repository below.
+Finantrac: Bank sync, budgeting, and automated transaction categorization
+
+Current stack: ASP.NET Core, C#, PostgreSQL, React, and TypeScript.
